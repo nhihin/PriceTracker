@@ -1,0 +1,13 @@
+Product,Price,RRP,onSale,Discount,Discount_Prop,Date,Store,URL
+Tresseme Hair Mask 300 mL,7.49,7.99,TRUE,0.5,0.0625782227784731,2022-09-28,Chemist_Warehouse,https://www.chemistwarehouse.com.au/buy/87045/tresemme-repair-protect-7-mask-300ml
+Garnier Fructis Hair Mask 390 mL,11.99,13.99,TRUE,2,0.14295925661186562,2022-09-28,Chemist_Warehouse,https://www.chemistwarehouse.com.au/buy/87548/garnier-fructis-hair-food-repairing-papaya-3-in-1-mask-treatment-for-damaged-hair-390ml
+Schwarzkopf Hair Mask 300 mL,10.99,12.99,TRUE,2,0.15396458814472672,2022-09-28,Chemist_Warehouse,https://www.chemistwarehouse.com.au/buy/107699/schwarzkopf-extra-care-ultimate-repair-strengthening-treatment-mask-300ml
+Pantene Collagen Hair Mask 190 mL,5.99,11.99,TRUE,6,0.5004170141784821,2022-09-28,Chemist_Warehouse,https://www.chemistwarehouse.com.au/buy/106877/pantene-miracle-hair-mask-jar-collagen-repair-190ml
+QV Skin Lotion 1 L,19.99,19.99,FALSE,0,0,2022-09-28,Chemist_Warehouse,https://www.chemistwarehouse.com.au/buy/64066/qv-skin-lotion-1-25l
+Pantene Conditioner 900 mL,9.49,18.99,TRUE,9.499999999999998,0.5002632964718272,2022-09-28,Chemist_Warehouse,https://www.chemistwarehouse.com.au/buy/75906/pantene-daily-moisture-renewal-conditioner-900ml
+Neutrogena Dry Touch Sunscreen Body 88 mL,12.24,24.49,TRUE,12.249999999999998,0.500204164965292,2022-09-28,Chemist_Warehouse,https://www.chemistwarehouse.com.au/buy/84456/neutrogena-sheer-zinc-body-dry-touch-sunscreen-lotion-88ml
+Neutrogena Dry Touch Sunscreen Face 59 mL,10.24,20.49,TRUE,10.249999999999998,0.5002440214738897,2022-09-28,Chemist_Warehouse,https://www.chemistwarehouse.com.au/buy/84455/neutrogena-sheer-zinc-face-dry-touch-sunscreen-lotion-spf50-59ml
+Redwin Sorbolene Lotion 1 L,6.49,7.69,TRUE,1.2000000000000002,0.15604681404421328,2022-09-28,Chemist_Warehouse,https://www.chemistwarehouse.com.au/buy/52713/redwin-sorbolene-moisturiser-with-vitamin-e-litre-1
+Hamilton Urea Cream,10.99,10.99,FALSE,0,0,2022-09-28,Chemist_Warehouse,https://www.chemistwarehouse.com.au/buy/38567/hamilton-urederm-cream-10-100g
+"Fenty Lip Bomb in Fenty Glow 9 mL",34,34,FALSE,0,0,2022-09-28,"Sephora","https://www.sephora.com.au/products/fenty-gloss-bomb-universal-lip-luminizer/v/fenty-glow"
+"The Ordinary Niachinamide 60 mL",19,19,FALSE,0,0,2022-09-28,"Sephora","https://www.sephora.com.au/products/the-ordinary-niacinamide-10-percent-plus-zinc-1-percent/v/60ml"
